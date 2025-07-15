@@ -9,25 +9,23 @@
         "aboutme": "个人评价"
     },
     "avatar": {
-        "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+        "src": "https://avatars.githubusercontent.com/u/6139178?v=4",
         "hidden": false
     },
     "profile": {
-        "name": "廖晓娟 (新茗)",
-        "email": "736xxxx86@qq.com",
-        "mobile": "156xxxx7119",
-        "github": "https://github.com/visiky (1.1k 粉丝)",
-        "zhihu": "https://www.zhihu.com/people/visiky",
+        "name": "曾祯",
+        "email": "526721484@qq.com",
+        "mobile": "19976963170",
         "workExpYear": ""
     },
     "educationList": [
         {
             "edu_time": [
-                "2014.09.01",
-                "2018.06.30"
+                "2008.09.01",
+                "2012.06.30"
             ],
-            "school": "华南理工大学",
-            "major": "网络工程",
+            "school": "湖南师范大学树达学院",
+            "major": "音乐表演",
             "academic_degree": "本科"
         }
     ],
