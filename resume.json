@@ -1,12 +1,12 @@
 {
     "titleNameMap": {
         "educationList": "教育背景",
+        "aboutme": "个人评价",
         "workExpList": "工作经历",
         "projectList": "项目经验",
         "skillList": "个人技能",
         "awardList": "更多信息",
-        "workList": "个人作品",
-        "aboutme": "个人评价"
+        "workList": "个人作品"
     },
     "avatar": {
         "src": "https://avatars.githubusercontent.com/u/6139178?v=4",
